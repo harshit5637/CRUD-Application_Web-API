@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGjfPuRCO2IhhMYHJg1Mc/UygBYPP6uyfe6HXoj1zZze0M0Ia5P4G4jARt5XeKgRlBVVsyu/qTL4pPRhPMgrCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hmish\\Documents\\TrainingTECHRBM\\DAY3_CRUD_StaticWay\\DAY3_CRUD\\DAY3_CRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hmish\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\hmish\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hmish\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\hmish\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\hmish\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\hmish\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

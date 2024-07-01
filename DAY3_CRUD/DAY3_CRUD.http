@@ -1,0 +1,6 @@
+@DAY3_CRUD_HostAddress = http://localhost:5056
+
+GET {{DAY3_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
